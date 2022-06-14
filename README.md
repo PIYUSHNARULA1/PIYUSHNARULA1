@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @PIYUSHNARULA1
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+PIYUSHNARULA1/PIYUSHNARULA1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changesimport 
+import random
+lower="abcdefghijklmnopqrstuvwxyz
+upper="ABCDEFGHIJKLMNOPQRSTUVWXYZ
+NUMBER="0123456789'
